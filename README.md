@@ -1,5 +1,3 @@
-# age_based_classification
-text corpus and models for age-based text classification
-
+# Corpus and Baselines for Age-Based Text Classification
 
 <a href="https://github.com/yordwynn/urban-waffle">CNN + Word2Vec</a>
