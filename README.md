@@ -12,4 +12,6 @@
 
 ## Citation
 
-https://arxiv.org/abs/2009.11898
+Glazkova A., Egorov Y., Glazkov M. (2021) A Comparative Study of Feature Types for Age-Based Text Classification. In: van der Aalst W.M.P. et al. (eds) Analysis of Images, Social Networks and Texts. AIST 2020. Lecture Notes in Computer Science, vol 12602. Springer, Cham. https://doi.org/10.1007/978-3-030-72610-2_9
+
+Preprint: https://arxiv.org/abs/2009.11898
